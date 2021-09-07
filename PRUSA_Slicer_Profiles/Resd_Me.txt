@@ -1,6 +1,9 @@
 These profiles are based on a lot of hours of testing various filament brands
 and nozzle sizes on the AnyCubic Chiron.
 
+Marlin firmware for the Chiron for these tests is 1.3.0 from the master
+branch.
+
 What I have found that is unusual is that PETG prints out with lower
 temperatures than what I am used to. Normally 230C range is used for PETG but
 with the Chiron and the larger nozzles I have found that I could hear the
