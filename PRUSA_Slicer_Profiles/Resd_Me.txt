@@ -1,7 +1,7 @@
 These profiles are based on a lot of hours of testing various filament brands
 and nozzle sizes on the AnyCubic Chiron.
 
-They were created with PRUSA Slicer 2.3.3
+They were created with PRUSA Slicer 2.3.3 and updated for Slicer 2.4.0
 
 Marlin firmware for the Chiron for these tests is 1.3.0 from the master
 branch.
