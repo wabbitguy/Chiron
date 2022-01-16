@@ -1,0 +1,10 @@
+These are the STL and SVG designs for the Chiron bed that can be used in PRUSA Slicer.
+
+Copy these files to someplace on your HD.
+In PRUSA Slcier select the Chiron Profile you want to add the bed to.
+Select Printer Settings --> General --> Bed Shape and the SET button
+
+The Texture will be the SVG file, Model will be the STL file.
+
+Note the bed is not transparent so you can't look up from the underneath
+the bed in PRUSA Slicer.
